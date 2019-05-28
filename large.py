@@ -1,2 +1,2 @@
-lmdvhios=list(map(int,input().split()))
-print(max(lmdvhios))
+lmdvhio=list(map(int,input().split()))
+print(max(lmdvhio))
