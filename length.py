@@ -1,2 +1,2 @@
-n=str(input())
-print(len(n))
+tryyoh=str(input())
+print(len(tryyoh))
