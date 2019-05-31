@@ -1,6 +1,6 @@
-n,k=map(int,input().split())
+nn,k=map(int,input().split())
 l=[]
-for i in range(n+1,k):
+for i in range(nn+1,k):
   count1=0
   for j in range(1,i):
     if i%j==0:
