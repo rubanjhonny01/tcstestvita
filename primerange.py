@@ -8,4 +8,4 @@ for i in range(n+1,k):
   if count1==1:
     l.append(i)
 for x in l:
-  print(x,end="")
+  print(x,end=" ")
